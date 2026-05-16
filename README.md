@@ -11,6 +11,7 @@ It is intended for personal, educational, and testing purposes only.
 
 - Collection of Bruce firmware scripts
 - Scripts support: RFID, NFC, IR, Sub‑GHz
+- Curated for Bruce-native script formats that run on LilyGO T-Embed CC1101 Plus
 - Easy to use
 
 ## Disclaimer
